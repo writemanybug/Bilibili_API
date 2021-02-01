@@ -47,6 +47,3 @@ https://api.bilibili.com/x/web-interface/online?&jsonp=jsonp
 在线人数(网页在线、未知[play_online])
 
 https://api.bilibili.com/x/web-show/res/locs?pf=0&ids=142%2C2837%2C2836%2C2870%2C2953%2C2954%2C2955%2C2956&jsonp=jsonp
-作者：可爱的小喵咪Cat
-https://www.bilibili.com/read/cv3430609/
-出处： bilibili
